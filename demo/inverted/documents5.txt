@@ -1,0 +1,10 @@
+doc041 artificial intelligence includes machine learning methods
+doc042 deep learning uses neural networks to learn complex patterns
+doc043 training data is used to build a machine learning model
+doc044 testing data measures how well a model performs
+doc045 data science combines programming statistics and domain knowledge
+doc046 search engines rank documents based on query relevance
+doc047 an index helps retrieve matching documents quickly
+doc048 text documents can contain repeated words and phrases
+doc049 duplicate words in one document should appear once in its posting list
+doc050 map reduce can build an inverted index from many documents

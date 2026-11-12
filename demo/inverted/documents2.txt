@@ -1,0 +1,10 @@
+doc011 search engines use an inverted index to find documents quickly
+doc012 an inverted index maps each word to a list of documents
+doc013 document retrieval is an important information retrieval task
+doc014 text processing includes tokenization and normalization
+doc015 tokenization splits text into individual words or tokens
+doc016 normalization can convert words to lowercase
+doc017 a query contains words that a search engine looks up
+doc018 ranking orders documents by their relevance to a query
+doc019 relevance is important in information retrieval
+doc020 search systems often use indexes to avoid scanning every document

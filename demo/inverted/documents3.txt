@@ -1,0 +1,10 @@
+doc021 operating systems manage memory processes and files
+doc022 processes execute programs using system resources
+doc023 threads allow a process to perform multiple tasks
+doc024 parallel computing divides work among multiple workers
+doc025 map reduce processes large datasets using parallel tasks
+doc026 the map phase produces key value pairs
+doc027 the shuffle phase groups values with matching keys
+doc028 the reduce phase combines values for each key
+doc029 reducers can calculate counts sums or document lists
+doc030 parallel processing can reduce execution time

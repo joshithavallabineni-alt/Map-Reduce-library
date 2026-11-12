@@ -1,0 +1,10 @@
+doc001 data science uses statistics to understand data
+doc002 machine learning learns patterns from data
+doc003 data visualization presents information using charts
+doc004 statistics helps analysts summarize large datasets
+doc005 a search engine finds useful information from documents
+doc006 data cleaning removes errors from datasets
+doc007 python is commonly used for data science and machine learning
+doc008 a database stores structured information
+doc009 information retrieval searches documents for relevant information
+doc010 machine learning models learn from training data

@@ -1,0 +1,10 @@
+doc031 networks connect computers and allow communication
+doc032 computer networks use routers switches and protocols
+doc033 machine learning can detect patterns in network traffic
+doc034 data analysis helps identify unusual network activity
+doc035 security systems protect computers from attacks
+doc036 encryption protects information during communication
+doc037 databases and indexes help applications retrieve information
+doc038 structured data is stored in tables with rows and columns
+doc039 analysts use statistics to explain patterns in datasets
+doc040 visualization makes complex data easier to understand

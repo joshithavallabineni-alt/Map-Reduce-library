@@ -1,0 +1,17 @@
+libmr.a
+*.o
+examples/word_count
+examples/inverted_index
+examples/word_frequency
+examples/max_per_key
+examples/matrix_multiply
+examples/benchmark
+tests/test_kv
+tests/test_split
+tests/test_partition
+tests/test_job
+tests/test_threads
+tests/test_errors
+tests/test_memory
+tests/test_large
+tests/test_alloc_fail
